@@ -1,10 +1,5 @@
 # Модуль для работы с архивами наблюдений АИСОРИ
 
-![Python](https://img.shields.io/badge/python-3.8%2B-3776AB)
-![numpy](https://img.shields.io/badge/numpy-требуется-013243)
-![matplotlib](https://img.shields.io/badge/matplotlib-требуется-11557c)
-![Данные](https://img.shields.io/badge/данные-АИСОРИ%20%7C%20meteo.ru-0a7)
-
 Модуль читает выгрузки метеорологических наблюдений системы АИСОРИ
 (ВНИИГМИ-МЦД, [meteo.ru](http://meteo.ru)) и считает по ним средние,
 климатическую норму, аномалии и тренд.
